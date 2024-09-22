@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab5\\lab5\\views\\calc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\calc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab5\\lab5\\views\\calc\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\calc\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab5\\lab5\\views\\calc\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\calc\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|d:\\labs\\\u043F\u0438\u0441\\lab5\\lab5\\controllers\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|solutionrelative:lab5\\controllers\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|d:\\labs\\\u043F\u0438\u0441\\lab5\\lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C8EE7ED-7872-4F86-8086-2129DBDDB662}|Lab5\\Lab5.csproj|solutionrelative:lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab5\\appsettings.json",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\appsettings.json",
+              "RelativeToolTip": "Lab5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T07:12:40.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Views\\Calc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Views\\Calc\\Index.cshtml",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Views\\Calc\\Index.cshtml",
+              "RelativeToolTip": "Lab5\\Views\\Calc\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T08:37:37.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Calc.cshtml",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Views\\Calc\\_Calc.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Views\\Calc\\_Calc.cshtml",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Views\\Calc\\_Calc.cshtml",
+              "RelativeToolTip": "Lab5\\Views\\Calc\\_Calc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T07:16:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CalcLink.cshtml",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Views\\Calc\\_CalcLink.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Views\\Calc\\_CalcLink.cshtml",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Views\\Calc\\_CalcLink.cshtml",
+              "RelativeToolTip": "Lab5\\Views\\Calc\\_CalcLink.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T07:11:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Controllers\\Calc.cs",
+              "RelativeDocumentMoniker": "Lab5\\Controllers\\Calc.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Controllers\\Calc.cs",
+              "RelativeToolTip": "Lab5\\Controllers\\Calc.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:06:25.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:05:44.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

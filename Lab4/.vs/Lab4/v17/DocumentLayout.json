@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab4\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|d:\\labs\\\u043F\u0438\u0441\\lab4\\task2\\controllers\\taresearch .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|solutionrelative:task2\\controllers\\taresearch .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab4\\task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|solutionrelative:task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab4\\task1\\controllers\\tmresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|solutionrelative:task1\\controllers\\tmresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab4\\task1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|solutionrelative:task1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab4\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab4\\task2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0018E890-3598-481D-AED1-153443251F47}|Task2\\Task2.csproj|solutionrelative:task2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab4\\task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C017039-515A-463D-A02A-FC8891B7C25E}|Task1\\Task1.csproj|solutionrelative:task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\appsettings.json",
+              "RelativeDocumentMoniker": "Task1\\appsettings.json",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\appsettings.json",
+              "RelativeToolTip": "Task1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T09:05:02.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:05:34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAH4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:05:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TAResearch .cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\Controllers\\TAResearch .cs",
+              "RelativeDocumentMoniker": "Task2\\Controllers\\TAResearch .cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\Controllers\\TAResearch .cs",
+              "RelativeToolTip": "Task2\\Controllers\\TAResearch .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:40:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TMResearch.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\Controllers\\TMResearch.cs",
+              "RelativeDocumentMoniker": "Task1\\Controllers\\TMResearch.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task1\\Controllers\\TMResearch.cs",
+              "RelativeToolTip": "Task1\\Controllers\\TMResearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:39:17.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\appsettings.json",
+              "RelativeDocumentMoniker": "Task2\\appsettings.json",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\appsettings.json",
+              "RelativeToolTip": "Task2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T08:33:35.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:37:47.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab4\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:39:47.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

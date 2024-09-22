@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|d:\\labs\\\u043F\u0438\u0441\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD81C3A-978C-4A29-B7D4-C733011DA499}|..\\WindowsClient\\WindowsClient.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab1\\windowsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\multiplication2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|solutionrelative:multiplication2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\multiplication1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|solutionrelative:multiplication1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD81C3A-978C-4A29-B7D4-C733011DA499}|..\\WindowsClient\\WindowsClient.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab1\\windowsclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD81C3A-978C-4A29-B7D4-C733011DA499}|..\\WindowsClient\\WindowsClient.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab1\\windowsclient\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|solutionrelative:lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\sum.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAD131B6-8671-4C78-8E8D-9316FAD64D9B}|Lab1.csproj|solutionrelative:sum.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:47:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "multiplication1.html",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\multiplication1.html",
+              "RelativeDocumentMoniker": "multiplication1.html",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\multiplication1.html",
+              "RelativeToolTip": "multiplication1.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-02T06:47:27.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab1",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\Lab1.csproj",
+              "RelativeDocumentMoniker": "Lab1.csproj",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\Lab1.csproj",
+              "RelativeToolTip": "Lab1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003627|",
+              "WhenOpened": "2024-03-02T06:47:27.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "multiplication2.html",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\multiplication2.html",
+              "RelativeDocumentMoniker": "multiplication2.html",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\multiplication2.html",
+              "RelativeToolTip": "multiplication2.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-02T06:47:27.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\WindowsClient\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WindowsClient\\Form1.Designer.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\WindowsClient\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\WindowsClient\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:47:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\WindowsClient\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsClient\\Form1.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\WindowsClient\\Form1.cs",
+              "RelativeToolTip": "..\\WindowsClient\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-02T06:47:27.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\WindowsClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WindowsClient\\Program.cs",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\WindowsClient\\Program.cs",
+              "RelativeToolTip": "..\\WindowsClient\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:47:27.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sum.html",
+              "DocumentMoniker": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\sum.html",
+              "RelativeDocumentMoniker": "sum.html",
+              "ToolTip": "D:\\Labs\\\u041F\u0418\u0421\\Lab1\\Lab1\\sum.html",
+              "RelativeToolTip": "sum.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-02T06:47:27.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

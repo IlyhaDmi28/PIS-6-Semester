@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>Произведение чисел</h1>
+
+    <form id="myForm">
+        <label for="xInput">X:</label>
+        <input type="number" id="xInput" name="x" required><br><br>
+
+        <label for="yInput">Y:</label>
+        <input type="number" id="yInput" name="y" required><br><br>
+
+        <input type="submit" value="Умножить">
+    </form>
+
+    <div id="resultContainer"></div>
+
+    <script>
+        document.getElementById("myForm").addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            let x = document.getElementById("xInput").value;
+            let y = document.getElementById("yInput").value;
+            let xhr = new XMLHttpRequest();
+            xhr.open("POST", "/multiplication1");
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+                    document.getElementById("resultContainer").innerHTML = "Результат: " + xhr.responseText;
+                }
+            };
+            xhr.send("x=" + x + "&y=" + y);
+        });
+    </script>
+</body>
+</html>

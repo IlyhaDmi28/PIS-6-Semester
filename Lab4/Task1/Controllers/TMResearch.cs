@@ -1,0 +1,24 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Task1.Controllers
+{
+    public class TMResearch : Controller
+    {
+        public IActionResult M01()
+        {
+            return Content("GET:M01");
+        }
+        public IActionResult M02()
+        {
+            return Content("GET:M02");
+        }
+        public IActionResult M03() 
+        {
+            return Content("GET:M03");
+        } 
+        public IActionResult MXX()
+        {
+            return Content("MXX");
+        } 
+    }
+}

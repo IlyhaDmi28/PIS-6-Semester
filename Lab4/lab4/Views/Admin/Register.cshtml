@@ -1,0 +1,17 @@
+﻿
+<div class="min-vw-100 d-flex flex-column align-items-center justify-content-center">
+    <h1 class="h1">Регистрация</h1>
+    <form class="d-flex flex-column gap-3 w-75 bg-opacity-25 p-3" method="post" action="/Admin/Register">
+        <div class="w-100 d-flex gap-2">
+            <label class="text-black w-25">Имя:</label>
+            <input class="form-control" name="username" value="@ViewBag.Username"/>
+        </div>
+        <div class="w-100 d-flex gap-2">
+            <label class="text-black w-25">Пароль:</label>
+            <input class="form-control" name="password" value="@ViewBag.Password"/>
+        </div>
+        <button type="submit" class="btn btn-success">Подтвердить</button>
+
+        @await Html.PartialAsync("ErrorsBlock")
+    </form>
+</div>

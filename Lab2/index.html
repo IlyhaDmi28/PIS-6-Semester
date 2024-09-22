@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Client</title>
+</head>
+<body>
+    <button onclick="WSstart()">Start</button>
+    <button onclick="WSstop()">Stop</button>
+    <div id="recive" style="height: 1000px"></div>
+
+    <script>
+        let socket;
+        let send;
+        let i = 1;
+
+        function WSstart() {
+            socket = new WebSocket('ws://localhost:5173/socket');
+
+            send = setInterval(() => {
+                if (socket.readyState === WebSocket.OPEN) {
+                    socket.send('Message from client: ' + (i++));
+                }
+            }, 500);
+
+            socket.onopen = (e) => { recive.innerHTML += 'WebSocket connected' + "</br>" };
+            socket.onmessage = (e) => { recive.innerHTML += e.data + "</br>" };
+            socket.onclose = () => { recive.innerHTML += 'WebSocket closed' + "</br>" };
+            socket.onerror = (e) => { recive.innerHTML += e.message + "</br>" };
+        }
+
+        function WSstop() {
+            clearInterval(send);
+            socket.close();
+        }
+
+    </script>
+</body>
+</html>
